@@ -1,7 +1,6 @@
 paradedb/paradedb:v0.22.2-pg17
 busybox:1.36
 searxng/searxng:latest
-minio/minio:latest
 qdrant/qdrant:v1.16.2
 opensearchproject/opensearch:3.3.2
 opensearchproject/opensearch-dashboards:3.3.0
