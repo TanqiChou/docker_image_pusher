@@ -1,3 +1,7 @@
+wechatopenai/weknora-ui:v0.8.0
+wechatopenai/weknora-app:v0.8.0
+wechatopenai/weknora-docreader:v0.8.0
+wechatopenai/weknora-sandbox:v0.8.0
 kennethreitz/httpbin:latest
 apache/rocketmq:5.3.3
 apacherocketmq/rocketmq-dashboard:2.0.1
